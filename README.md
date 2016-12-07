@@ -17,7 +17,7 @@
 *  [відео українською](https://youtu.be/0Gdj5cwRHWA);
 *  [видео на русском] (https://youtu.be/zld8-NSRhlo).
 
-## [Документація] (https://github.com/datawizio/1C_client/wiki)
+## Документація
 [Документація українською] (https://github.com/datawizio/1C_client/wiki/%D0%9F%D0%BB%D0%B0%D0%B3%D1%96%D0%BD-Datawiz.io-%D0%B4%D0%BB%D1%8F-1%D0%A1:-%D0%9F%D1%96%D0%B4%D0%BF%D1%80%D0%B8%D1%94%D0%BC%D1%81%D1%82%D0%B2%D0%B0)
 
 [Документация на русском] (https://github.com/datawizio/1C_client/wiki/%D0%9F%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD-Datawiz.io-%D0%B4%D0%BB%D1%8F-1%D0%A1:-%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5)
